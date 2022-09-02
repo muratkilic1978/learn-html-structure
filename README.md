@@ -6,7 +6,7 @@ This is a short introduction to the **HTML5 structure** and some basic HTML Tags
 
 ### Examples
 
-`<!DOCTYPE html>`
+`<!DOCTYPE html>`<br>
 All **HTML** documents must start with a `<!DOCTYPE>` declaration.<br>
 The declaration is not an **HTML** tag. It is an "information" to the browser about what document type to expect.<br><br>
 
@@ -14,7 +14,7 @@ The declaration is not an **HTML** tag. It is an "information" to the browser ab
 
 ### Examples
 
-`<html lang="en">`
+`<html lang="en">`<br>
 The `<html>` tag represents the root of an HTML document and is the container for all other HTML elements (except for the `<!DOCTYPE>` tag). Always include the _lang_ attribute inside the `<html>`tag to assiste search engines and browsers.<br><br>
 
 ## The HTML `<head>` Element
