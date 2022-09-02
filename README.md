@@ -20,6 +20,17 @@ The `<head>` tag primarily contains header information about the document, such 
 `<meta name="viewport" content="width=device-width, initial-scale=1.0">`<br>
 **Setting the viewport to make your website look good on all devices**<br><br>
 
+`<title>HTML5 Tags and structure</title>`<br>
+**The`<title>` element defines a title in the browser toolbar and provides a title for the page when it is added to favorites**<br><br>
+
+`<link rel="stylesheet" href="css/style.css">`<br>
+**The <link> element defines the relationship between the current document and an external resource and is often used to link to external style sheets**<br><br>
+
+**Another example with link tag is when you want to create a favicon to your website**<br>
+
+`<link rel="icon" type="image/x-icon" href="img/favicon.ico">`<br><br>
+**A favicon is a small image displayed next to the page title in the browser tab.**
+
 ## Here is an overview of the most popular HTML5 tags from WebsiteSetup.org
 
 ![alt text](cheatsheet.png)
