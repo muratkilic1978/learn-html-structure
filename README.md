@@ -1,3 +1,3 @@
 # learn-html-structure
 
-##The HTML <head> Element
+## The HTML <head> Element
