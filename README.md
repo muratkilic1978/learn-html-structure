@@ -8,17 +8,17 @@ The `<head>` tag primarily contains header information about the document, such 
 
 ### Examples
 
-`<meta charset="UFT-8">`
-**Define the character set used**
+`<meta charset="UFT-8">`<br>
+**Define the character set used**<br><br>
 
-`<meta name="keywords" content="HTML, Tags, structure, block-elements, inline-elements">`
-**Define keywords for search engines:**
+`<meta name="keywords" content="HTML, Tags, structure, block-elements, inline-elements">`<br>
+**Define keywords for search engines:**<br><br>
 
-`<meta name="author" content="John Doe">`
-**Define the author of a page**
+`<meta name="author" content="John Doe">`<br>
+**Define the author of a page**<br><br>
 
-`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
-**Setting the viewport to make your website look good on all devices**
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`<br>
+**Setting the viewport to make your website look good on all devices**<br><br>
 
 ## Here is an overview of the most popular HTML5 tags from WebsiteSetup.org
 
