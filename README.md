@@ -67,7 +67,7 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 `<h1>`Hello World`</h1>`<br>
 `<p>This is a paragraph.`<p>`<br>
 
-**Here are other the inline elements in HTML:**<br>
+**Here are other the block-elements in HTML:**<br>
 `<address>` `<article>` `<aside>` `<blockquote>` `<canvas>` `<dd>` `<div>` `<dl>` `<dt>` `<fieldset>` `<figcaption>` `<figure>` `<footer>` `<form>` `<h1>`-`<h6>` `<header>` `<hr>` `<li>` `<main>`
 `<nav>` `<ol>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`<br><br>
 
@@ -78,7 +78,7 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 
 `<span>`Hello World`</span>`<br>
 
-**Here are other the block-level elements in HTML:**<br>
+**Here are other the inline elements in HTML:**<br>
 
 `<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<em>` `<i>` `<img>` `<input>` `<label>` `<map>`
 `<object>` `<output>` `<q>` `<samp>` `<script> `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>`<br>
