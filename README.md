@@ -1,10 +1,25 @@
 # learn-html-structure
 
-This is a short introduction to the **HTML5 structure** and some basic HTML Tags for **beginners**. I recommend that you create a new index.html file with your editor eg. _Sublime_, _Atom Brackets_ or _Visual Studio Code_. I suggest that your insert All the HTML Tags from this introduction into your own **index.html** document and finally open the **index.html** in your browser eg. Mozilla FireFox or Chrome to check the result.
+This is a short introduction to the **HTML5 structure** and some basic HTML Tags for **beginners**. I recommend that you create a new index.html file with your editor eg. _Sublime_, _Atom Brackets_ or _Visual Studio Code_. I suggest that your insert All the HTML Tags from this introduction into your own **index.html** document and finally open the **index.html** in your browser eg. Mozilla FireFox or Chrome to check the result. <br><br>
+
+## The HTML `<DOCTYPE>` declaration
+
+### Examples
+
+`<!DOCTYPE html>`
+All **HTML** documents must start with a `<!DOCTYPE>` declaration.<br>
+The declaration is not an **HTML** tag. It is an "information" to the browser about what document type to expect.<br><br>
+
+## The `<html>` Element
+
+### Examples
+
+`<html lang="en">`
+The `<html>` tag represents the root of an HTML document and is the container for all other HTML elements (except for the `<!DOCTYPE>` tag). Always include the _lang_ attribute inside the `<html>`tag to assiste search engines and browsers.<br><br>
 
 ## The HTML `<head>` Element
 
-The `<head>` tag primarily contains header information about the document, such as its title, keywords, description, and style sheet
+The `<head>` tag primarily contains header information about the document, such as its title, keywords, description, and style sheet<br>
 
 ### Examples
 
