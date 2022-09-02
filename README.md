@@ -81,7 +81,7 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 **Here are other inline-elements in HTML:**<br>
 
 `<a>` `<abbr>` `<acronym>` `<b>` `<bdo>` `<big>` `<br>` `<button>` `<cite>` `<code>` `<em>` `<i>` `<img>` `<input>` `<label>` `<map>`
-`<object>` `<output>` `<q>` `<samp>` `<script> `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` <br>
+`<object>` `<output>` `<q>` `<samp>` `<script>` `<select>` `<small>` `<span>` `<strong>` `<sub>` `<sup>` `<textarea>` `<time>` <br>
 
 ## Headings 1-6
 
