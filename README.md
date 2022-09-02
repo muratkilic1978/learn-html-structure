@@ -56,7 +56,27 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 
 **The `<body>` tag comes in pairs and defines the main content of the HTML document that will be directly visible on your web page. The `<body>` tag contains such as headings, paragraphs, images, hyperlinks, tables, lists, etc.** <br>
 
-### Examples
+## HTML Block and Inline Elements
+
+**The HTML elements can be categorized into two broader categories, inline and block elements.**<br>
+**The block elements break the flow of content and start a new line - here are som examples of block element**<br>
+**Two commonly used block elements are: `<h1>` and `<p>`.**<br><br>
+
+### Example
+
+`<h1>`Hello World`</h1>`<br>
+`<p>This is a paragraph.`<p>`<br><br>
+
+**Here are other the block-level elements in HTML:**<br>
+`<address>` `<article>` `<aside>` `<blockquote>` `<canvas>` `<dd>` `<div>` `<dl>` `<dt>` `<fieldset>` `<figcaption>` `<figure>` `<footer>` `<form>` `<h1>`-`<h6>` `<header>` `<hr>` `<li>` `<main>`
+`<nav>' `<ol>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`<br><br>
+
+**An inline element does not start on a new line - it only takes up as much width as necessary.**<br>
+**The `<span>` element is a inline tag**<br><br>
+
+**Here are other the block-level elements in HTML:**<br>
+
+### Example
 
 #### Headings 1-6
 
