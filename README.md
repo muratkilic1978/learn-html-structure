@@ -42,12 +42,32 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 **The`<title>` tag comes in pairs and defines a title in the browser toolbar and provides a title for the page when it is added to favorites in the browser** <br><br>
 
 `<link rel="stylesheet" href="css/style.css">`<br>
-**The `<link>` element defines the relationship between the current document and an external resource and is often used to link to external style sheets. It comes as single tag.**<br><br>
+**The `<link>` tag defines the relationship between the current document and an external resource and is often used to link to external style sheets. It comes as single tag.**<br><br>
 
 **Another example with `<link>` tag is when you want to create a favicon to your website**<br>
 
 `<link rel="icon" type="image/x-icon" href="img/favicon.ico">`<br>
 **A favicon is a small image displayed next to the page title in the browser tab and comes as single tag.**<br><br>
+
+## The `<body>` Element
+
+`<body>`<br>
+`</body>`<br>
+
+**The `<body>` tag comes in pairs and defines the main content of the HTML document that will be directly visible on your web page. The `<body>` tag contains such as headings, paragraphs, images, hyperlinks, tables, lists, etc.** <br>
+
+### Examples
+
+#### Headings 1-6
+
+`<h1>`<br>
+`<h2>`<br>
+`<h3>`<br>
+`<h4>`<br>
+`<h5>`<br>
+`<h6>`<br><br>
+
+**The `<h1>` tag defines the largest heading in HTML and `<h6>` defines the smallest heading.**
 
 ## Here is an overview of the most popular HTML5 tags from WebsiteSetup.org
 
