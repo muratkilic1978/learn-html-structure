@@ -65,11 +65,11 @@ The `<html>` tag comes in pairs and represents the root of an HTML document and 
 ### Example
 
 `<h1>`Hello World`</h1>`<br>
-`<p>This is a paragraph.`<p>`<br><br>
+`<p>This is a paragraph.`<p>`<br>
 
 **Here are other the block-level elements in HTML:**<br>
 `<address>` `<article>` `<aside>` `<blockquote>` `<canvas>` `<dd>` `<div>` `<dl>` `<dt>` `<fieldset>` `<figcaption>` `<figure>` `<footer>` `<form>` `<h1>`-`<h6>` `<header>` `<hr>` `<li>` `<main>`
-`<nav>' `<ol>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`<br><br>
+`<nav>` `<ol>` `<pre>` `<section>` `<table>` `<tfoot>` `<ul>` `<video>`<br><br>
 
 **An inline element does not start on a new line - it only takes up as much width as necessary.**<br>
 **The `<span>` element is a inline tag**<br><br>
